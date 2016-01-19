@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marnix De Cat]]></title>
+        <description><![CDATA[Marnix De Cat]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jan 2016 12:50:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OrgaX - Gent 1O/2013 by marnixdecat]]></title>
+            <description><![CDATA[<article><h1>OrgaX - Gent 1O/2013 by marnixdecat</h1><p>Impro Concert in Gent, 6/10/2013</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41997987151173802d14c69c595db7bed8ccdf5e.jpg"></article>]]></description>
+            <link>https://soundcloud.com/marnixdecat/orgax-gent-1o2013</link>
+            <guid isPermaLink="false">c06d3012-c906-430f-9f29-20c7b2b074f8</guid>
+            <pubDate>Tue, 19 Jan 2016 12:50:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
