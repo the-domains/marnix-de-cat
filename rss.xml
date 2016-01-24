@@ -4,7 +4,7 @@
         <description><![CDATA[Marnix De Cat]]></description>
         <link>https://thegrid.ai/marnix-de-cat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 16:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 16:32:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marnix-de-cat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ROMIX]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/marnix-de-cat/romix/index.html</link>
             <guid isPermaLink="false">57a2b733-b3e4-4209-9730-253ec2de8ef4</guid>
             <pubDate>Sun, 24 Jan 2016 16:28:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OrgaX - Gent 1O/2013 by marnixdecat]]></title>
-            <description><![CDATA[<article><h1>OrgaX - Gent 1O/2013 by marnixdecat</h1><p>Impro Concert in Gent, 6/10/2013</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41997987151173802d14c69c595db7bed8ccdf5e.jpg"></article>]]></description>
-            <link>https://soundcloud.com/marnixdecat/orgax-gent-1o2013</link>
-            <guid isPermaLink="false">c06d3012-c906-430f-9f29-20c7b2b074f8</guid>
-            <pubDate>Tue, 19 Jan 2016 12:50:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
