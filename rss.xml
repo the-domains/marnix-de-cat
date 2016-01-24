@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Marnix De Cat]]></title>
         <description><![CDATA[Marnix De Cat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marnix-de-cat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 18:21:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 18:24:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marnix-de-cat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ROMIX]]></title>
+            <description><![CDATA[<article><h1>ROMIX</h1><p>BACH 4/2</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d500ae88ab6609046ad04b3d2cbf63d57b742bfd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/marnix-de-cat/romix/index.html</link>
+            <guid isPermaLink="false">57a2b733-b3e4-4209-9730-253ec2de8ef4</guid>
+            <pubDate>Sun, 24 Jan 2016 18:24:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OrgaX]]></title>
             <description><![CDATA[<article><h1>OrgaX</h1><p>Website : www.OrgaX.be</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9584113e169c63b27be2ffd6322622d9b48ee318.jpg"></article>]]></description>
-            <link>undefinedorgax/index.html</link>
+            <link>https://thegrid.ai/marnix-de-cat/orgax/index.html</link>
             <guid isPermaLink="false">f10743e4-c6b1-4e7f-94e4-7f45cde81707</guid>
             <pubDate>Sun, 24 Jan 2016 18:21:55 GMT</pubDate>
         </item>
