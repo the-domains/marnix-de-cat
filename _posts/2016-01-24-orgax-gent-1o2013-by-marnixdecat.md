@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T18:47:36.061Z'
-dateModified: '2016-01-24T18:47:28.175Z'
+datePublished: '2016-01-24T23:53:54.667Z'
+dateModified: '2016-01-24T23:53:51.375Z'
 author:
   - name: marnixdecat
     url: 'http://soundcloud.com/marnixdecat'
@@ -45,12 +45,12 @@ Website : www.OrgaX.be
 
 ###### 
 
-Several years ago Hugo Boogaerts (saxes) and Marnix De Cat (pipe-organ)
+## Several years ago Hugo Boogaerts (saxes) and Marnix De Cat (pipe-organ)
 
-met eachother on an improvisation-session.
+## met eachother on an improvisation-session.
 
-This session was recorded and the sound was rather mindblowing :
+## This session was recorded and the sound was rather mindblowing :
 
-From etheric sound to rough and powerfull !
+## From etheric sound to rough and powerfull !
 
-The mix of both musicians' background makes each concert an exciting adventure to step in !
+## The mix of both musicians' background makes each concert an exciting adventure to step in !
