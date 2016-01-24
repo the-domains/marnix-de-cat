@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-24T18:33:35.918Z'
-dateModified: '2016-01-24T18:33:30.818Z'
+description: "What is Orgax ?   Several years ago Hugo Boogaerts (saxes) and Marnix De Cat (pipe-organ) met eachother on an improvisation-session. This session was recorded and the sound was rather mindblowing : From etheric sound to rough and powerfull ! The mix of both musicians' background makes each concert an exciting adventure to step in !"
+datePublished: '2016-01-24T18:35:47.299Z'
+dateModified: '2016-01-24T18:35:43.754Z'
 author:
   - name: marnixdecat
     url: 'http://soundcloud.com/marnixdecat'
@@ -39,4 +39,4 @@ _context: 'http://schema.org'
 
 ---
 Website : www.OrgaX.be
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fde88b969ff6019b054c4e56534e92629b5227bf.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e04950b0262650b809882479ffc4bfd741bdc8b.jpg)
