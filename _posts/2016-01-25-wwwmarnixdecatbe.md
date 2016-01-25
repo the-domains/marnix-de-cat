@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.marnixdecat.be'
-  name: Marnixdecat
-  favicon: null
-  domain: www.marnixdecat.be
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
 keywords: []
 description: www.marnixdecat.be
+datePublished: '2016-01-25T00:28:04.064Z'
+dateModified: '2016-01-25T00:27:57.479Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.marnixdecat.be/'
-datePublished: '2016-01-25T00:23:43.674Z'
-dateModified: '2016-01-25T00:22:54.850Z'
 title: ''
 sourcePath: _posts/2016-01-25-wwwmarnixdecatbe.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Marnixdecat
+  domain: www.marnixdecat.be
+  url: 'http://www.marnixdecat.be'
+  favicon: null
+url: wwwmarnixdecatbe/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
