@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T15:11:51.619Z'
+datePublished: '2016-01-25T15:11:51.694Z'
 dateModified: '2016-01-25T15:11:46.329Z'
 title: Bio
 author: []
