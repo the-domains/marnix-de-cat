@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T00:34:42.262Z'
-dateModified: '2016-01-25T00:34:37.297Z'
+datePublished: '2016-01-25T00:40:14.248Z'
+dateModified: '2016-01-25T00:40:11.118Z'
 title: Home
 author: []
 sourcePath: _posts/2016-01-25-marnix-de-cat.md
