@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T00:40:14.695Z'
-dateModified: '2016-01-25T00:40:11.118Z'
-title: Home
+datePublished: '2016-01-25T00:42:31.791Z'
+dateModified: '2016-01-25T00:42:28.971Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-25-marnix-de-cat.md
 published: true
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: marnix-de-cat/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41cbfdee-7878-40de-bd82-9cce48ff15e5.jpg)
