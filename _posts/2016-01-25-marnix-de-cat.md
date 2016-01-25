@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T15:11:51.694Z'
-dateModified: '2016-01-25T15:11:46.329Z'
+datePublished: '2016-01-25T15:19:23.394Z'
+dateModified: '2016-01-25T15:19:19.704Z'
 title: Bio
 author: []
 sourcePath: _posts/2016-01-25-marnix-de-cat.md
@@ -22,8 +22,6 @@ url: bio/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48aea607-5355-484b-a864-e1ada440ed60.jpg)
-
 The Belgian **counter-tenor, conductor, organist** and percussion player, **Marnix De Cat**, studied at Sint-Jan Berchmanscollege Brussel (1979-1985). He graduated from the Lemmens Institute in Leuven (Hogeschool voor Wetenschap & Kunst, 1985-1992), earning a First Prize in organ (under Reitze Smits), harmony and counterpoint. He also studied singing, percussion and fugue, and received a First Prize in choral conducting. (under Erik Van Nevel)
 
 Marnix De Cat sings and plays music from 14th to 21st centuries, specializing in Ars Nova, Renaissance, Baroque, Early Romantism and Contemporary.
@@ -43,6 +41,7 @@ Marnix was replacing organist at St-Michielscathedral Brussels (1988-1993), and 
 Marnix De Cat was the singer-coach of the BL!NDMAN saxophone quartet.
 
 Together with jazz saxophonist Hugo Boogaerts, he formed the duo **OrgaX**, a unique combination of organ and saxophones, with an accent on improvisation and a mix of styles. To cap it all, he is also active as a composer and regularly collaborates on music projects for young people, and as a **vocal ensemble coach.**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/606ecda6-180d-446b-b59e-284a9ad92c52.jpg)
 
 [0]: http://www.Pluto-ensemble.be/
 [1]: http://www.gesualdoconsort.amsterdam/
