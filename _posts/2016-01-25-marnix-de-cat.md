@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T15:04:55.388Z'
-dateModified: '2016-01-25T15:04:50.507Z'
+datePublished: '2016-01-25T15:08:43.463Z'
+dateModified: '2016-01-25T15:08:40.678Z'
 title: Bio
 author: []
 sourcePath: _posts/2016-01-25-marnix-de-cat.md
@@ -41,7 +41,7 @@ Marnix was replacing organist at St-Michielscathedral Brussels (1988-1993), and 
 Marnix De Cat was the singer-coach of the BL!NDMAN saxophone quartet.
 
 Together with jazz saxophonist Hugo Boogaerts, he formed the duo **OrgaX**, a unique combination of organ and saxophones, with an accent on improvisation and a mix of styles. To cap it all, he is also active as a composer and regularly collaborates on music projects for young people, and as a **vocal ensemble coach.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c965d919-9e94-4cf2-b8e1-b70f88f30671.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48aea607-5355-484b-a864-e1ada440ed60.jpg)
 
 [0]: http://www.Pluto-ensemble.be/
 [1]: http://www.gesualdoconsort.amsterdam/
