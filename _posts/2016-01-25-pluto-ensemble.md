@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T00:58:40.788Z'
-dateModified: '2016-01-25T00:58:37.086Z'
+datePublished: '2016-01-25T01:01:19.357Z'
+dateModified: '2016-01-25T01:01:13.405Z'
 title: PLUTO-ensemble
 author: []
 sourcePath: _posts/2016-01-25-pluto-ensemble.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: pluto-ensemble/index.html
-_type: WebPage
+_type: Article
 
 ---
 # [PLUTO-ensemble][0]
