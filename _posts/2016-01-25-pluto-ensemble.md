@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T16:16:53.905Z'
-dateModified: '2016-01-25T16:16:50.014Z'
+datePublished: '2016-01-25T16:46:48.812Z'
+dateModified: '2016-01-25T16:46:47.730Z'
 title: www.Pluto-ensemble.be
 author: []
 sourcePath: _posts/2016-01-25-pluto-ensemble.md
@@ -22,7 +22,8 @@ url: pluto-ensemble/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0219f04-5b80-4ef9-880a-d5d92f2aee41.jpg)
+
 # [www.Pluto-ensemble.be][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/75405b331ee8dbe0ba039e8ef3f8d6a1987fe3c1.jpg)
 
 [0]: https://thegrid.ai/pluto-ensemble/
