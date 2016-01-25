@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marnix De Cat]]></title>
+        <description><![CDATA[Marnix De Cat]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jan 2016 00:01:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marnix De Cat]]></title>
+            <description><![CDATA[<article><h1>Marnix De Cat</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba2d9e34bf620a1e817f2dd0d9095f358cc1c4a7.jpg"></article>]]></description>
+            <link>undefinedmarnix-de-cat/index.html</link>
+            <guid isPermaLink="false">7e95c9e1-b22a-407c-83f5-f527d2b1729d</guid>
+            <pubDate>Mon, 25 Jan 2016 00:01:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
