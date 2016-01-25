@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T00:11:35.629Z'
-dateModified: '2016-01-25T00:11:32.063Z'
+datePublished: '2016-01-25T03:12:27.541Z'
+dateModified: '2016-01-25T03:12:27.259Z'
 author:
   - name: marnixdecat
     url: 'http://soundcloud.com/marnixdecat'
@@ -45,6 +45,6 @@ Website : www.OrgaX.be
 
 ###### 
 
-Several years ago Marnix & Hugo met eachother on an improvisation-session. This session was recorded and the sound was rather mindblowing :
+Several years ago Marnix & Hugo Boogaerts (saxes) met eachother on an improvisation-session. This session was recorded and the sound was rather mindblowing :
 
 From etheric sound to rough and powerfull ! The mix of both musicians' background makes each concert an exciting adventure to step in !
