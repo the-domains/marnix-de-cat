@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T15:53:34.119Z'
-dateModified: '2016-01-25T15:53:28.213Z'
-title: ''
+datePublished: '2016-01-25T15:54:58.266Z'
+dateModified: '2016-01-25T15:54:53.174Z'
+title: Marnix De Cat
 author: []
 sourcePath: _posts/2016-01-25-marnix-de-cat.md
 published: true
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/606ecda6-180d-446b-b59e-284a9ad92c52.jpg)
 
-**_Marnix De Cat_** a Belgian **counter-tenor, conductor, organist** and percussion player, studied at Sint-Jan Berchmanscollege Brussel (1979-'85). He graduated from the Lemmens Institute in Leuven (Luca Campus 1985-'92), earning a First Prize in organ (under Reitze Smits), harmony and counterpoint. He also studied singing, percussion and fugue, and received a First Prize in choral conducting. (under Erik Van Nevel)
+the Belgian **counter-tenor, conductor, organist** and percussion player, studied at Sint-Jan Berchmanscollege Brussel (1979-'85). He graduated from the Lemmens Institute in Leuven (Luca Campus 1985-'92), earning a First Prize in organ (under Reitze Smits), harmony and counterpoint. He also studied singing, percussion and fugue, and received a First Prize in choral conducting. (under Erik Van Nevel)
 
 He sings and plays music from 14th to 21st centuries, specializing in Ars Nova, Renaissance, Baroque, Early Romantism and Contemporary.
 
