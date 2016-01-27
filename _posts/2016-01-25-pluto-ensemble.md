@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T13:29:20.449Z'
-dateModified: '2016-01-26T13:29:18.947Z'
+datePublished: '2016-01-27T17:32:47.476Z'
+dateModified: '2016-01-27T17:32:44.584Z'
 title: 'Pluto&Hathor'
 author: []
 sourcePath: _posts/2016-01-25-pluto-ensemble.md
@@ -22,9 +22,8 @@ url: pluto-ensemble/index.html
 _type: WebPage
 
 ---
-[www.Pluto-ensemble.be][0]
+[www.Pluto-ensemble.eu][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/882e64347a461c6e0e9d19206ec48804f5af8674.jpg)
 
-# 
 
-[0]: https://thegrid.ai/pluto-ensemble/
+[0]: http://www.pluto-ensemble.eu/
