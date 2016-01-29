@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T20:37:45.317Z'
-dateModified: '2016-01-29T20:37:37.432Z'
+datePublished: '2016-01-29T21:42:14.759Z'
+dateModified: '2016-01-29T21:41:52.886Z'
 title: 'Marnix @ the organ/piano/keyboard :'
 author: []
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
@@ -49,20 +49,18 @@ The most amazing florished music of the Rennaissance Hits
 _Organ : Marnix De Cat_
 
 _Viols :****Romina Lischka_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b9d852f-21e4-4d62-81c6-b4ec43c899d4.jpg)
 
-## ' Bach 4/2 '
-
-Bach original and arranged for 2 !
-
-_Organ : Marnix De Cat_
-
-_Viols : Romina Lischka_
+## 
 
 __
 
-# Other creations & Projects...
+# Other creations...
 
-* Impro Project Renaissance & Modern
-* Centre for Living Music (volemus.be) under constructions
-* 'Rosa' for vocal ensemble & for strings+choir
-* Choir-music & Workshops
+- **Impro** Project Renaissance & Modern
+
+- Centre for **Living Music** (volemus.be) under constructions
+
+- '**Rosa**' for vocal ensemble & for strings+choir
+
+- Choir-music & **Workshops**
