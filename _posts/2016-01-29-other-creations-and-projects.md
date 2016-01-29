@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T21:42:14.759Z'
-dateModified: '2016-01-29T21:41:52.886Z'
+datePublished: '2016-01-29T21:48:49.086Z'
+dateModified: '2016-01-29T21:48:45.295Z'
 title: 'Marnix @ the organ/piano/keyboard :'
 author: []
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
@@ -23,6 +23,7 @@ _type: WebPage
 
 ---
 ## Other Projects...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24d8b16c-ede0-4afb-b884-7ca1a10e3156.jpg)
 
 # Marnix @ the organ/piano/keyboard :
 
@@ -50,8 +51,6 @@ _Organ : Marnix De Cat_
 
 _Viols :****Romina Lischka_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b9d852f-21e4-4d62-81c6-b4ec43c899d4.jpg)
-
-## 
 
 __
 
