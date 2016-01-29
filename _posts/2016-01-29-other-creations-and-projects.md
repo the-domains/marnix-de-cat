@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T20:15:21.171Z'
-dateModified: '2016-01-29T20:15:08.902Z'
-title: 'Other creations & Projects...'
+datePublished: '2016-01-29T20:28:46.965Z'
+dateModified: '2016-01-29T20:28:43.562Z'
+title: 'Marnix @ the organ/piano/keyboard :'
 author: []
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
 published: true
@@ -19,19 +19,48 @@ publisher:
   url: null
   favicon: null
 url: other-creations-and-projects/index.html
-_type: Article
+_type: WebPage
 
 ---
+# 
+
+# Marnix @ the organ/piano/keyboard :
+
+## ' Sounds from within '
+
+Marnix De Cat plays a program with own music and improvisations at the _piano_. All the music coming from the deepest silence within ourselves.
+
+Some texts from diverse spiritual origin are used to help the listener to jump into this world of 'silent music'...
+
+## 'Ach Vlaend're vrye, qui est le mien...'
+
+A confrontation with the spiritual and musical heritage of 'Flanders' through all kinds of styles and times... A cry for freedom from medieval and Rennaissance chansons to Jacques Brel...
+
+_Voice, keyboards & arrang. : Marnix De Cat_
+
+_Saxes, flutes : Hugo Boogaerts _
+
+_Viols : Romina Lischka_
+
+**'Bastarda-Bastarda'**
+
+The most amazing florished music of the Rennaissance Hits
+
+_Organ : Marnix De Cat_
+
+_Viols :****Romina Lischka_
+
+## ' Bach 4/2 '
+
+Bach original and arranged for 2 !
+
+_Organ : Marnix De Cat_
+
+_Viols : Romina Lischka_
+
 # Other creations & Projects...
 
-## "Rosa" for ensemble & for strings & choir
-
-## My 'house-Project'
-
-## Impro Project Renaissance & Modern
-
-## "Moon"-music
-
-## Choir-music
-
-## Centre for Living Music (CeLmus)
+* Impro Project Renaissance & Modern
+* Centre for Living Music (voLEmus.be) under constructions
+* 'Rosa' for vocal ensemble & for strings+choir
+* Choir-music & Workshops
