@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T20:34:28.824Z'
-dateModified: '2016-01-29T20:34:23.304Z'
+datePublished: '2016-01-29T20:37:45.317Z'
+dateModified: '2016-01-29T20:37:37.432Z'
 title: 'Marnix @ the organ/piano/keyboard :'
 author: []
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
@@ -22,6 +22,8 @@ url: other-creations-and-projects/index.html
 _type: WebPage
 
 ---
+## Other Projects...
+
 # Marnix @ the organ/piano/keyboard :
 
 ## ' Sounds from within '
