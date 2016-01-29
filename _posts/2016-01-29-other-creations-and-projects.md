@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T20:28:47.114Z'
-dateModified: '2016-01-29T20:28:43.562Z'
+datePublished: '2016-01-29T20:34:28.736Z'
+dateModified: '2016-01-29T20:34:23.304Z'
 title: 'Marnix @ the organ/piano/keyboard :'
 author: []
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
@@ -22,8 +22,6 @@ url: other-creations-and-projects/index.html
 _type: WebPage
 
 ---
-# 
-
 # Marnix @ the organ/piano/keyboard :
 
 ## ' Sounds from within '
@@ -42,7 +40,7 @@ _Saxes, flutes : Hugo Boogaerts _
 
 _Viols : Romina Lischka_
 
-**'Bastarda-Bastarda'**
+## 'Bastarda-Bastarda'
 
 The most amazing florished music of the Rennaissance Hits
 
@@ -58,9 +56,11 @@ _Organ : Marnix De Cat_
 
 _Viols : Romina Lischka_
 
+__
+
 # Other creations & Projects...
 
 * Impro Project Renaissance & Modern
-* Centre for Living Music (voLEmus.be) under constructions
+* Centre for Living Music (volemus.be) under constructions
 * 'Rosa' for vocal ensemble & for strings+choir
 * Choir-music & Workshops
