@@ -1,7 +1,7 @@
 name: Marnix De Cat
 favicon: null
-layout_spectrum: 0.50717
-typography_spectrum: 0.60143
+layout_spectrum: 0.25148
+typography_spectrum: 0.50592
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.1875
+  brandStrength: 0.25
   lightness: 0.5
   saturation: 0.24159828363917768
   rhythmicContrast: 0.8183116496074945
