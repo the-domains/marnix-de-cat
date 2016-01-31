@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T22:00:03.259Z'
+datePublished: '2016-01-31T22:00:03.446Z'
 dateModified: '2016-01-31T21:59:44.857Z'
 title: Marnix
 author: []
