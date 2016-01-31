@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T22:06:26.969Z'
-dateModified: '2016-01-29T22:06:17.086Z'
-title: Other Projects...
+datePublished: '2016-01-31T14:49:09.650Z'
+dateModified: '2016-01-31T14:49:05.868Z'
+title: Other Projects
 author: []
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
 published: true
@@ -22,10 +22,10 @@ url: other-creations-and-projects/index.html
 _type: WebPage
 
 ---
-# Other Projects...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d307fd4b-f4c9-4031-8e06-82066c0caf2c.jpg)
+# Other Projects
 
-# Marnix @ the organ/piano/keyboard :
+## Marnix @ the organ/piano/keyboard :
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d307fd4b-f4c9-4031-8e06-82066c0caf2c.jpg)
 
 ## ' Sounds from within '
 
