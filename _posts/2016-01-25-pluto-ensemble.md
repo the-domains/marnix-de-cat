@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T21:46:59.756Z'
-dateModified: '2016-01-31T21:46:55.918Z'
+datePublished: '2016-01-31T21:50:04.395Z'
+dateModified: '2016-01-31T21:49:57.222Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-25-pluto-ensemble.md
@@ -30,4 +30,4 @@ Working together with the viols of the  [Hathor Consort][1]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/882e64347a461c6e0e9d19206ec48804f5af8674.jpg)
 
 [0]: http://www.pluto-ensemble.eu/
-[1]: www.hathor-consort.eu
+[1]: http://www.hathor-consort.eu/
