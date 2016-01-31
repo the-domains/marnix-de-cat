@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T21:50:04.450Z'
+datePublished: '2016-01-31T21:50:04.522Z'
 dateModified: '2016-01-31T21:49:57.222Z'
 title: 'Pluto & Hathor'
 author: []
