@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T14:51:59.690Z'
-dateModified: '2016-01-31T14:51:58.518Z'
-title: MarniX
+datePublished: '2016-01-31T15:02:42.023Z'
+dateModified: '2016-01-31T15:02:38.889Z'
+title: Marnix
 author: []
 sourcePath: _posts/2016-01-25-marnix-de-cat.md
 published: true
@@ -24,15 +24,15 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/606ecda6-180d-446b-b59e-284a9ad92c52.jpg)
 
-the Belgian **counter-tenor, conductor, organist** and percussion player, studied at Sint-Jan Berchmanscollege Brussel (1979-'85). He graduated from the Lemmens Institute in Leuven (Luca Campus 1985-'92), earning a First Prize in organ (under Reitze Smits), harmony and counterpoint. He also studied singing, percussion and fugue, and received a First Prize in choral conducting. (under Erik Van Nevel)
+Marnix De Cat is a Belgian **counter-tenor, conductor, organist** and percussion player. He sings and plays music from 14th to 21st centuries, specializing in old & new Polyphony. (Ars Nova, Renaissance, Baroque, Early Romantism and Contemporary Music.)
 
-He sings and plays music from 14th to 21st centuries, specializing in Ars Nova, Renaissance, Baroque, Early Romantism and Contemporary.
+He grounded his own vocal **[Pluto-ensemble][0]**to work out his ideas on different music-scenes.
 
-He grounded his own vocal [Pluto-ensemble][0] to work out his ideas on different music-scenes.
+Marnix studied at Sint-Jan Berchmanscollege Brussel ('79-'85), graduated from the Lemmens Institute in Leuven (Luca Campus '85-'92), earning a First Prize in organ (under Reitze Smits), harmony and counterpoint. He also studied singing, percussion and fugue, and received a First Prize in choral conducting. (under Erik Van Nevel)
 
-Marnix is a permanent member of the **[Gesualdo Consort][1][][2]**Amsterdam (alto, since 2002). 
+He is a permanent member of the **[Gesualdo Consort][1][][2]**Amsterdam (alto, since 2002). 
 
-From 1996 till 2013 he has been one of the four permanent core members of the **Capilla Flamenca**, participating in its worldwide tours.
+From 1996 till 2013 he has been one of the four permanent core members of the **Capilla Flamenca**, participating in its worldwide tours, and with whom he made about 35 CD-recordings.
 
 In addition, he regularly collaborates with the **[Collegium Vocale Gent][3]**, Currende ensemble, Weser Renaissance, Huelgas Ensemble,.. He also has been raising his visibility as a soloist as well performing with conductors such as Gustav Leonhardt, Philippe Herreweghe, Jos van Immerseel, Manfred Cordes... Several modern dance performances co-opted him as a singer for their tours, among others: Iets op Bach (A.Platel), Foi (S.L.Cherkaoui), and Bâche (K. Augustijnen).
 
@@ -44,7 +44,7 @@ Marnix De Cat was the singer-coach of the BL!NDMAN saxophone quartet.
 
 Together with jazz saxophonist Hugo Boogaerts, he formed the duo **[OrgaX][4]**, a unique combination of organ and saxophones, with an accent on improvisation and a mix of styles. To cap it all, he is also active as a **composer** and regularly collaborates on music projects for young people, and as a **vocal ensemble coach.**
 
-[0]: thegrid.ai/pluto-ensemble
+[0]: https://app.thegrid.io/posts/7e95c9e1-b22a-407c-83f5-f527d2b1729d/thegrid.ai/pluto-ensemble
 [1]: www.gesualdoconsort.amsterdam
 [2]: http://www.gesualdoconsort.amsterdam/
 [3]: www.collegiumvocale.com
