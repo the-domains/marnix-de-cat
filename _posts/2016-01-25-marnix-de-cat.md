@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T15:02:42.223Z'
-dateModified: '2016-01-31T15:02:38.889Z'
+datePublished: '2016-01-31T15:16:13.945Z'
+dateModified: '2016-01-31T15:16:10.894Z'
 title: Marnix
 author: []
 sourcePath: _posts/2016-01-25-marnix-de-cat.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/606ecda6-180d-446b-b59e-284a9ad92c52.jpg)
 
-Marnix De Cat is a Belgian **counter-tenor, conductor, organist** and percussion player. He sings and plays music from 14th to 21st centuries, specializing in old & new Polyphony. (Ars Nova, Renaissance, Baroque, Early Romantism and Contemporary Music.)
+Marnix De Cat is a Belgian **counter-tenor, conductor, organist** and percussion player. He sings and plays music from 14th to 21st centuries, specializing in old & new Polyphony. (Ars Nova, Renaissance, Baroque, Early Romantism and Contemporary Music.) 
 
 He grounded his own vocal **[Pluto-ensemble][0]**to work out his ideas on different music-scenes.
 
@@ -44,7 +44,7 @@ Marnix De Cat was the singer-coach of the BL!NDMAN saxophone quartet.
 
 Together with jazz saxophonist Hugo Boogaerts, he formed the duo **[OrgaX][4]**, a unique combination of organ and saxophones, with an accent on improvisation and a mix of styles. To cap it all, he is also active as a **composer** and regularly collaborates on music projects for young people, and as a **vocal ensemble coach.**
 
-[0]: https://app.thegrid.io/posts/7e95c9e1-b22a-407c-83f5-f527d2b1729d/thegrid.ai/pluto-ensemble
+[0]: www.thegrid.ai/pluto-ensemble
 [1]: www.gesualdoconsort.amsterdam
 [2]: http://www.gesualdoconsort.amsterdam/
 [3]: www.collegiumvocale.com
