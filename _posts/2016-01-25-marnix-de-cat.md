@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T15:54:58.300Z'
-dateModified: '2016-01-25T15:54:53.174Z'
-title: Marnix De Cat
+datePublished: '2016-01-31T13:44:29.952Z'
+dateModified: '2016-01-31T13:44:15.719Z'
+title: Marnix
 author: []
 sourcePath: _posts/2016-01-25-marnix-de-cat.md
 published: true
@@ -28,13 +28,13 @@ the Belgian **counter-tenor, conductor, organist** and percussion player, studie
 
 He sings and plays music from 14th to 21st centuries, specializing in Ars Nova, Renaissance, Baroque, Early Romantism and Contemporary.
 
-[He grounded his own vocal **Pluto-ensemble** to work out his ideas on different music-scenes.][0]
+He grounded his own vocal [Pluto-ensemble][0] to work out his ideas on different music-scenes.
 
-Marnix is a permanent member of the [**Gesualdo Consort **][1]Amsterdam (alto, since 2002). 
+Marnix is a permanent member of the **[Gesualdo Consort][1][][2]**Amsterdam (alto, since 2002). 
 
 From 1996 till 2013 he has been one of the four permanent core members of the **Capilla Flamenca**, participating in its worldwide tours.
 
-In addition, he regularly collaborates with the **[Collegium Vocale Gent][2]**, Currende ensemble, Weser Renaissance, Huelgas Ensemble,.. He also has been raising his visibility as a soloist as well performing with conductors such as Gustav Leonhardt, Philippe Herreweghe, Jos van Immerseel, Manfred Cordes... Several modern dance performances co-opted him as a singer for their tours, among others: Iets op Bach (A.Platel), Foi (S.L.Cherkaoui), and Bâche (K. Augustijnen).
+In addition, he regularly collaborates with the **[Collegium Vocale Gent][3]**, Currende ensemble, Weser Renaissance, Huelgas Ensemble,.. He also has been raising his visibility as a soloist as well performing with conductors such as Gustav Leonhardt, Philippe Herreweghe, Jos van Immerseel, Manfred Cordes... Several modern dance performances co-opted him as a singer for their tours, among others: Iets op Bach (A.Platel), Foi (S.L.Cherkaoui), and Bâche (K. Augustijnen).
 
 You can hear Marnix De Cat on about 85 CD-recordings.
 
@@ -44,6 +44,7 @@ Marnix De Cat was the singer-coach of the BL!NDMAN saxophone quartet.
 
 Together with jazz saxophonist Hugo Boogaerts, he formed the duo **OrgaX**, a unique combination of organ and saxophones, with an accent on improvisation and a mix of styles. To cap it all, he is also active as a **composer** and regularly collaborates on music projects for young people, and as a **vocal ensemble coach.**
 
-[0]: http://www.Pluto-ensemble.be/
-[1]: http://www.gesualdoconsort.amsterdam/
-[2]: http://www.collegiumvocale.com/
+[0]: thegrid.ai/pluto-ensemble
+[1]: www.gesualdoconsort.amsterdam
+[2]: http://www.gesualdoconsort.amsterdam/
+[3]: www.collegiumvocale.com
