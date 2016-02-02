@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T12:24:57.266Z'
-dateModified: '2016-02-02T12:24:53.517Z'
+datePublished: '2016-02-02T14:40:18.508Z'
+dateModified: '2016-02-02T14:40:15.055Z'
 title: Other Projects
 author: []
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
@@ -56,12 +56,12 @@ __
 
 # Other creations...
 
-- **Impro** Project Renaissance & Modern
+## - **Impro** Project Renaissance & Modern
 
-- **Centre for****Living Music** ([VOLEMUS][0]) under construction
+## - Centre****for Living****Music  : [**VOLEMUS**][0]
 
-- '**Rosa**' for vocal ensemble & for strings+choir
+## - '**Rosa**' for vocal ensemble & for strings+choir
 
-- Choir-music & **Workshops**
+## - Choir-music & ensemble-**Workshops**
 
 [0]: http://thegrid.ai/volemus
