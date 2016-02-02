@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T14:49:10.074Z'
-dateModified: '2016-01-31T14:49:05.868Z'
+datePublished: '2016-02-02T12:24:57.166Z'
+dateModified: '2016-02-02T12:24:53.517Z'
 title: Other Projects
 author: []
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
@@ -49,7 +49,7 @@ The most amazing florished music of the Rennaissance Hits
 
 _Organ : Marnix De Cat_
 
-_Viols :****Romina Lischka_
+_Viols : ****Romina Lischka_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b9d852f-21e4-4d62-81c6-b4ec43c899d4.jpg)
 
 __
@@ -58,8 +58,10 @@ __
 
 - **Impro** Project Renaissance & Modern
 
-- Centre for **Living Music** (volemus.be) under constructions
+- **Centre for****Living Music** ([VOLEMUS][0]) under construction
 
 - '**Rosa**' for vocal ensemble & for strings+choir
 
 - Choir-music & **Workshops**
+
+[0]: http://thegrid.ai/volemus
