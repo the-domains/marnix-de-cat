@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T21:50:04.604Z'
-dateModified: '2016-01-31T21:49:57.222Z'
+datePublished: '2016-02-15T13:20:38.736Z'
+dateModified: '2016-02-15T13:20:35.607Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-25-pluto-ensemble.md
@@ -27,7 +27,7 @@ Marnix is the artistic director of the vocal Pluto-ensemble
 website :   [www.Pluto-ensemble.eu][0]
 
 Working together with the viols of the  [Hathor Consort][1]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/882e64347a461c6e0e9d19206ec48804f5af8674.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4d4e550c82d5a01dc025a3e60ea7719b0dda944.jpg)
 
 [0]: http://www.pluto-ensemble.eu/
 [1]: http://www.hathor-consort.eu/
