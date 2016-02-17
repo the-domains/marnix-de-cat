@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T13:33:31.024Z'
-dateModified: '2016-02-15T13:33:27.907Z'
+datePublished: '2016-02-17T14:15:28.875Z'
+dateModified: '2016-02-17T14:13:04.584Z'
 title: 'Pluto & Hathor'
 author: []
 sourcePath: _posts/2016-01-25-pluto-ensemble.md
