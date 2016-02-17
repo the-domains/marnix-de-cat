@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T21:14:01.188Z'
-dateModified: '2016-01-31T21:13:56.808Z'
+datePublished: '2016-02-17T14:47:58.330Z'
+dateModified: '2016-02-17T14:47:51.765Z'
 author:
   - name: marnixdecat
     url: 'http://soundcloud.com/marnixdecat'
@@ -42,8 +42,6 @@ _context: 'http://schema.org'
 
 Website : www.OrgaX.be
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c8a6a5a7b10fa5c2c6033d0a237fb062127d805.jpg)
-
-###### 
 
 Several years ago Marnix & Hugo Boogaerts (saxes) met eachother on an improvisation-session. This session was recorded and the sound was rather mindblowing :
 
