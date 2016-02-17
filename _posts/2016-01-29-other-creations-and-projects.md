@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T14:40:19.005Z'
-dateModified: '2016-02-02T14:40:15.055Z'
+datePublished: '2016-02-17T14:21:54.287Z'
+dateModified: '2016-02-17T14:21:50.662Z'
 title: Other Projects
 author: []
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
@@ -58,7 +58,7 @@ __
 
 ## - **Impro** Project Renaissance & Modern
 
-## - Centre****for Living****Music  : [**VOLEMUS**][0]
+## - Centre ****for Living ****Music , website :  [**VOLEMUS**][0]
 
 ## - '**Rosa**' for vocal ensemble & for strings+choir
 
