@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T15:41:29.403Z'
-dateModified: '2016-02-17T15:41:26.323Z'
+datePublished: '2016-02-17T17:53:24.483Z'
+dateModified: '2016-02-17T17:53:21.093Z'
 title: Other Projects
 author: []
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
@@ -23,6 +23,10 @@ _type: WebPage
 
 ---
 # Other Projects
+
+-**Impro-**Project Renaissance & Modern
+
+- 'Centre for Living Music', go to website :  [**VOLEMUS**][0]
 
 ## Marnix @ the organ/piano/keyboard :
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d307fd4b-f4c9-4031-8e06-82066c0caf2c.jpg)
@@ -56,12 +60,10 @@ __
 
 # Other creations...
 
-- **Impro** Project Renaissance & Modern
-
-- Centre ****for Living ****Music , website :  [**VOLEMUS**][0]
-
 - '**Rosa**' for vocal ensemble & for strings+choir
 
-- Choir-music & ensemble-**Workshops**
+- Choir-music, arrangements...
+
+- Ensemble-**Workshops**, contact : marnix.decat@scarlet.be
 
 [0]: http://thegrid.ai/volemus
