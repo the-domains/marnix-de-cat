@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T14:34:27.423Z'
-dateModified: '2016-02-17T14:34:16.211Z'
+datePublished: '2016-02-17T15:15:43.980Z'
+dateModified: '2016-02-17T15:15:37.939Z'
 title: Marnix
 author: []
 sourcePath: _posts/2016-01-25-marnix-de-cat.md
@@ -22,11 +22,11 @@ url: bio/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9ab7f5250c0db85e30d2ffd395b687264bf677a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/89c481c96d22804115f2154f5802ef641a0b4f91.jpg)
 
-Marnix De Cat is a Belgian **counter-tenor, conductor, organist** and percussion player. He sings and plays music from 14th to 21st centuries, specializing in old & new Polyphony. (Ars Nova, Renaissance, Baroque, Early Romantism and Contemporary Music.) 
+Marnix De Cat is a Belgian **counter-tenor, conductor, organist** and percussion player. He sings and plays music from 14th to 21st centuries, specializing in old & new Polyphony.
 
-He grounded his own vocal **[Pluto-ensemble][0]**to work out his ideas on different music-scenes.
+He grounded his own vocal **[Pluto-ensemble][0]** to work out his ideas on different music-scenes. _(Ars Nova, Renaissance, Baroque, Early Romantism and Contemporary Music.)_
 
 Marnix studied at Sint-Jan Berchmanscollege Brussel ('79-'85), graduated from the Lemmens Institute in Leuven (Luca Campus '85-'92), earning a First Prize in organ (under Reitze Smits), harmony and counterpoint. He also studied singing, percussion and fugue, and received a First Prize in choral conducting. (under Erik Van Nevel)
 
