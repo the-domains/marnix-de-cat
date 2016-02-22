@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T01:00:29.931Z'
-dateModified: '2016-02-22T01:00:27.190Z'
+datePublished: '2016-02-22T23:33:11.292Z'
+dateModified: '2016-02-22T23:33:10.792Z'
 author:
   - name: marnixdecat
     url: 'http://soundcloud.com/marnixdecat'
@@ -41,7 +41,7 @@ _context: 'http://schema.org'
 ## Impro organ & sax
 
 Website : www.OrgaX.be
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c8a6a5a7b10fa5c2c6033d0a237fb062127d805.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d69c7d3d781dcc7e0e4694ca84af88a29be50d03.jpg)
 
 Several years ago Marnix & Hugo Boogaerts (saxes) met eachother on an improvisation-session. This session was recorded and the sound was rather mindblowing :
 
