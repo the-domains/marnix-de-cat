@@ -16,8 +16,8 @@ keywords:
   - vpro
   - bach
 description: ''
-datePublished: '2016-02-22T01:07:25.757Z'
-dateModified: '2016-02-22T01:07:15.683Z'
+datePublished: '2016-02-22T01:15:19.943Z'
+dateModified: '2016-02-22T01:15:08.989Z'
 author:
   - name: vpro vrije geluiden
     url: 'https://www.youtube.com/user/Vrijegeluiden'
@@ -60,18 +60,20 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Gesualdo Consort Amsterdam - Depuis Le Jour/Sweelinck
+title: Listen
+sourcePath: _posts/2016-02-22-gesualdo-consort-amsterdam-depuis-le-joursweelinck.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-02-22-gesualdo-consort-amsterdam-depuis-le-joursweelinck.md
-published: true
 url: gesualdo-consort-amsterdam-depuis-le-joursweelinck/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+Listen
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FFvlIkNiW-yk%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFvlIkNiW-yk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFvlIkNiW-yk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
