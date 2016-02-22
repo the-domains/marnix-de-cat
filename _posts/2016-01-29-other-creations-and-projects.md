@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T17:53:24.483Z'
-dateModified: '2016-02-17T17:53:21.093Z'
+datePublished: '2016-02-22T00:29:02.891Z'
+dateModified: '2016-02-22T00:26:25.236Z'
 title: Other Projects
 author: []
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
