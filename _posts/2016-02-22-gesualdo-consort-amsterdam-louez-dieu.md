@@ -17,8 +17,8 @@ keywords:
   - klassiek
   - avrotros
 description: '62'
-datePublished: '2016-02-22T00:28:42.710Z'
-dateModified: '2016-02-22T00:28:21.514Z'
+datePublished: '2016-02-22T00:28:52.366Z'
+dateModified: '2016-02-22T00:28:44.575Z'
 author:
   - name: vpro vrije geluiden
     url: 'https://www.youtube.com/user/Vrijegeluiden'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: Gesualdo Consort Amsterdam - Louez Dieu
+sourcePath: _posts/2016-02-22-gesualdo-consort-amsterdam-louez-dieu.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-02-22-gesualdo-consort-amsterdam-louez-dieu.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
