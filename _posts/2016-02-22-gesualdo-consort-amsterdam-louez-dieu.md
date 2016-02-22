@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=-WDd2I58f0o'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - bwv
   - klassiek
   - avrotros
-description: '62'
-datePublished: '2016-02-22T00:28:52.366Z'
-dateModified: '2016-02-22T00:28:44.575Z'
+description: ''
+datePublished: '2016-02-22T00:36:40.720Z'
+dateModified: '2016-02-22T00:36:21.610Z'
 author:
   - name: vpro vrije geluiden
     url: 'https://www.youtube.com/user/Vrijegeluiden'
@@ -61,7 +60,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Gesualdo Consort Amsterdam - Louez Dieu
+title: Listen
 sourcePath: _posts/2016-02-22-gesualdo-consort-amsterdam-louez-dieu.md
 published: true
 authors: []
@@ -70,6 +69,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: listen/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
