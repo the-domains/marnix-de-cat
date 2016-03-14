@@ -16,8 +16,8 @@ keywords:
   - vpro
   - bach
 description: ''
-datePublished: '2016-03-13T12:21:01.846Z'
-dateModified: '2016-03-13T12:20:35.184Z'
+datePublished: '2016-03-14T23:22:02.708Z'
+dateModified: '2016-03-14T23:22:01.764Z'
 author:
   - name: vpro vrije geluiden
     url: 'https://www.youtube.com/user/Vrijegeluiden'
@@ -76,7 +76,9 @@ _context: 'http://schema.org'
 ---
 # GCA
 
-go to the website of  [Gesualdo Consort Amsterdam][0]
+Marnix is one of the core members of the  
+
+[Gesualdo Consort Amsterdam][0]_(click to go to their website)_
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FFvlIkNiW-yk%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFvlIkNiW-yk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFvlIkNiW-yk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
