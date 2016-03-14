@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-22T01:32:27.970Z'
-dateModified: '2016-02-22T01:30:30.002Z'
+description: Marnix De Cat plays a program with own music and improvisations at the piano. All the music coming from the deepest silence within ourselves.
+datePublished: '2016-03-14T23:24:04.563Z'
+dateModified: '2016-03-14T23:24:03.902Z'
 title: Other Projects
 author: []
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 # Other Projects
 
--**Impro-**Project Renaissance & Modern
+- **Impro-**Project Renaissance & Modern
 
 - 'Centre for Living Music', go to website :  [**VOLEMUS**][0]
 
