@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marnix De Cat]]></title>
+        <description><![CDATA[Marnix De Cat]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Mar 2016 09:47:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Romina Lischka (gamba) & Marnix De Cat (orgel)]]></title>
+            <description><![CDATA[<article><h1>Romina Lischka (gamba) & Marnix De Cat (orgel)</h1><p>brengen een feestelijk ‘Bach for two’ programma op het historische Van Peteghem-orgel (1777) van de Sint-Michielskerk te Keerbergen.</p></article>]]></description>
+            <link>undefinedromina-lischka-gamba-and-marnix-de-cat-orgel/index.html</link>
+            <guid isPermaLink="false">b22465e9-e3e0-48fa-a649-4550cbd9faaa</guid>
+            <pubDate>Wed, 16 Mar 2016 09:47:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
