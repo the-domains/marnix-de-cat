@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Marnix De Cat is a Belgian counter-tenor, conductor, organist and percussion player.\_He sings and plays music from 14th to 21st centuries, specializing in old & new Polyphony."
-datePublished: '2016-03-16T09:45:35.140Z'
-dateModified: '2016-03-16T09:44:59.963Z'
+datePublished: '2016-03-16T09:52:24.045Z'
+dateModified: '2016-03-16T09:52:21.055Z'
 title: Marnix
 author: []
 sourcePath: _posts/2016-01-25-marnix-de-cat.md
@@ -49,7 +49,7 @@ Together with jazz saxophonist Hugo Boogaerts, he formed the duo **[OrgaX][4]**,
 
 **marnix.decat@scarlet.be**
 
-[0]: thegrid.ai/pluto-ensemble/
+[0]: http://www.pluto-ensemble.eu/
 [1]: http://www.gesualdoconsort.nl/
 [2]: http://www.gesualdoconsort.amsterdam/
 [3]: http://www.collegiumvocale.com/
