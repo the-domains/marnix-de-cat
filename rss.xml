@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Marnix De Cat]]></title>
         <description><![CDATA[Marnix De Cat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.marnixdecat.be/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 00:02:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 00:08:34 GMT</lastBuildDate>
+        <atom:link href="http://www.marnixdecat.be/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Contact :]]></title>
             <description><![CDATA[<article><h1>Contact :</h1><p>Marnix De Cat is a Belgian counter-tenor, conductor, organist and percussion player. He sings and plays music from 14th to 21st centuries, specializing in old & new Polyphony.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc4ae416f4b7066ead40de2400d0f049624329ab.jpg"></article>]]></description>
-            <link>undefinedbio/index.html</link>
+            <link>http://www.marnixdecat.be/bio/index.html</link>
             <guid isPermaLink="false">7e95c9e1-b22a-407c-83f5-f527d2b1729d</guid>
-            <pubDate>Sat, 26 Mar 2016 00:02:31 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 00:08:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
