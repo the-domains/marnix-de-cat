@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Marnix De Cat is a Belgian counter-tenor, conductor, organist and percussion player.\_He sings and plays music from 14th to 21st centuries, specializing in old & new Polyphony."
-datePublished: '2016-03-26T00:08:19.431Z'
-dateModified: '2016-03-26T00:08:12.115Z'
+datePublished: '2016-03-26T00:56:41.028Z'
+dateModified: '2016-03-26T00:56:40.536Z'
 title: Marnix De Cat
 author: []
 sourcePath: _posts/2016-01-25-marnix-de-cat.md
