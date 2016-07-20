@@ -3,15 +3,13 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'Website : www.OrgaX.be'
-datePublished: '2016-03-16T08:08:38.504Z'
-dateModified: '2016-03-16T08:08:37.999Z'
+datePublished: '2016-07-20T14:04:45.016Z'
+dateModified: '2016-07-20T14:04:31.174Z'
 author:
-  - name: marnixdecat
-    url: 'http://soundcloud.com/marnixdecat'
-    avatar: {}
+  - name: ''
+    url: ''
 related: []
 app_links:
   - type: ios
@@ -24,15 +22,15 @@ app_links:
     package: com.soundcloud.android
   - url: 'soundcloud://sounds:145869890'
     type: android
-title: OrgaX
+title: Impro organ & sax
 sourcePath: _posts/2016-01-24-orgax-gent-1o2013-by-marnixdecat.md
-published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: false
 url: orgax/index.html
 _type: AudioObject
 _context: 'http://schema.org'
