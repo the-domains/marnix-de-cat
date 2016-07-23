@@ -1,20 +1,4 @@
-name: Marnix De Cat
-favicon: null
-layout_spectrum: 0.50193
 typography_spectrum: 0.2712
-title: Marnix De Cat
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-81189378-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -26,4 +10,25 @@ color:
   lightness: 0.5
   saturation: 0.24159828363917768
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50193
+analytics:
+  google: UA-81189378-1
+  facebook: null
+  twitter: null
+name: Marnix De Cat
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: bc5bd4a3-d7f9-4d20-b40d-ee6e9cfa0bfa
+    url: 2016-07-20-composer.html
+    name: Composer
+    type: content
+favicon: null
+title: Marnix De Cat
 purpose: []
