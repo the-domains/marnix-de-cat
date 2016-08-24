@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Website : www.OrgaX.be'
-datePublished: '2016-07-20T14:04:45.016Z'
-dateModified: '2016-07-20T14:04:31.174Z'
+datePublished: '2016-08-24T08:54:06.436Z'
+dateModified: '2016-08-24T08:54:05.308Z'
 author:
   - name: ''
     url: ''
@@ -25,11 +25,8 @@ app_links:
 title: Impro organ & sax
 sourcePath: _posts/2016-01-24-orgax-gent-1o2013-by-marnixdecat.md
 authors: []
-publisher:
-  name: SoundCloud
-  domain: soundcloud.com
-  url: 'http://soundcloud.com'
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+publisher: {}
+via: {}
 starred: false
 url: orgax/index.html
 _type: AudioObject
