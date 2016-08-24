@@ -40,14 +40,14 @@ navigation:
   - name: Other Projects
     id: 00b677f0-318f-4c33-b8a1-c87c13b501d1
     type: content
-  - name: Contact
-    id: 7e95c9e1-b22a-407c-83f5-f527d2b1729d
-    type: content
   - name: Rosa
     id: ab965ed4-d855-4d28-a296-108b1ae87044
     type: content
   - name: Composer
     id: bc5bd4a3-d7f9-4d20-b40d-ee6e9cfa0bfa
+    type: content
+  - name: Contact
+    id: 7e95c9e1-b22a-407c-83f5-f527d2b1729d
     type: content
 favicon: null
 title: Marnix De Cat
