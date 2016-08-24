@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T18:10:28.164Z'
+datePublished: '2016-08-24T18:15:25.268Z'
 sourcePath: _posts/2016-01-25-marnix-de-cat.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: foto © Yves Gervais 2015
     url: ''
 via: {}
-dateModified: '2016-08-24T18:10:27.712Z'
+dateModified: '2016-08-24T18:15:24.594Z'
 title: ''
 publisher: {}
 description: >-
