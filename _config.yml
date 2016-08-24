@@ -49,6 +49,9 @@ navigation:
   - name: Contact
     id: 7e95c9e1-b22a-407c-83f5-f527d2b1729d
     type: content
+  - name: Pluto-ensemble
+    url: 'http://www.pluto-ensemble.eu'
+    type: external
 favicon: null
 title: ''
 description: singer - organist - director - composer - workshops
