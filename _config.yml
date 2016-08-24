@@ -40,6 +40,9 @@ navigation:
   - name: Bach 4 / 2
     id: 57a2b733-b3e4-4209-9730-253ec2de8ef4
     type: content
+  - name: Other Projects
+    id: 00b677f0-318f-4c33-b8a1-c87c13b501d1
+    type: content
 favicon: null
 title: Marnix De Cat
 purpose: []
