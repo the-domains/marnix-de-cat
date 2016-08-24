@@ -25,11 +25,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Contact
-    id: 7e95c9e1-b22a-407c-83f5-f527d2b1729d
-    type: content
   - name: Pluto & Hathor
     id: 932aaf48-6880-48b2-aec8-bb0d469cafad
+    type: content
+  - name: Contact
+    id: 7e95c9e1-b22a-407c-83f5-f527d2b1729d
     type: content
   - name: GCA
     id: 97b996bf-a214-42fb-95cb-9b29ad7fd766
