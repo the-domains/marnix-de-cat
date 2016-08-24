@@ -3,7 +3,6 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
 keywords:
   - duration
   - gesualdo
@@ -15,9 +14,9 @@ keywords:
   - geluiden
   - vpro
   - bach
-description: ''
-datePublished: '2016-03-14T23:23:23.029Z'
-dateModified: '2016-03-14T23:22:22.082Z'
+description: '76'
+datePublished: '2016-08-24T08:53:23.321Z'
+dateModified: '2016-08-24T08:53:21.397Z'
 author:
   - name: vpro vrije geluiden
     url: 'https://www.youtube.com/user/Vrijegeluiden'
@@ -62,13 +61,14 @@ app_links:
     type: ios
 title: GCA
 sourcePath: _posts/2016-02-22-gesualdo-consort-amsterdam-depuis-le-joursweelinck.md
-published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+via: {}
+starred: false
 url: gesualdo-consort-amsterdam-depuis-le-joursweelinck/index.html
 _type: VideoObject
 _context: 'http://schema.org'
