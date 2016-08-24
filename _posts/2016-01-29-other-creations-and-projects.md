@@ -1,33 +1,31 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: >-
-  Marnix De Cat plays a program with own music and improvisations at the piano.
-  All the music coming from the deepest silence within ourselves.
-datePublished: '2016-08-24T09:00:52.892Z'
-dateModified: '2016-08-24T09:00:51.219Z'
-title: 'Marnix @ the organ/piano/keyboard :'
-author: []
+datePublished: '2016-08-24T15:50:08.991Z'
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
+inFeed: false
 authors: []
-publisher: {}
+hasPage: true
+keywords: []
+author: []
 via: {}
+dateModified: '2016-08-24T15:50:08.415Z'
+title: Other Projects
+publisher: {}
+description: '- Impro-Project Renaissance & Modern'
+inLanguage: null
+inNav: true
 starred: false
 url: other-creations-and-projects/index.html
 _type: WebPage
 
 ---
+## Marnix @ the organ/piano/keyboard :
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d7ee0d865e3945895d922c48f59e63349e5abe0.jpg)
+
 # Other Projects
 
 - **Impro-**Project Renaissance & Modern
 
-- 'Centre for Living Music', go to website :  [**VOLEMUS**][0]
-
-## Marnix @ the organ/piano/keyboard :
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d307fd4b-f4c9-4031-8e06-82066c0caf2c.jpg)
+- 'Centre for Living Music', go to website : **[VOLEMUS][0]**
 
 ## ' Sounds from within '
 
@@ -35,13 +33,13 @@ Marnix De Cat plays a program with own music and improvisations at the _piano_. 
 
 Some texts from diverse spiritual origin are used to help the listener to jump into this world of 'silent music'...
 
-## 'Ach Vlaend're vrye, qui est le mien...'
+## ' Ach Vlaend're vrye, qui est le mien... '
 
 A confrontation with the spiritual and musical heritage of 'Flanders' through all kinds of styles and times... A cry for freedom from medieval and Rennaissance chansons to Jacques Brel...
 
 _Voice, keyboards & arrang. : Marnix De Cat_
 
-_Saxes, flutes : Hugo Boogaerts _
+_Saxes, flutes : Hugo Boogaerts_
 
 _Viols : Romina Lischka_
 
@@ -51,10 +49,8 @@ The most amazing florished music of the Rennaissance Hits
 
 _Organ : Marnix De Cat_
 
-_Viols : ****Romina Lischka_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b9d852f-21e4-4d62-81c6-b4ec43c899d4.jpg)
-
-__
+_Viols : Romina Lischka_
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2aa6aa4ca704bd74d21b60df9069446663f4fafb.jpg)
 
 # Other creations...
 
