@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Marnix De Cat plays a program with own music and improvisations at the piano. All the music coming from the deepest silence within ourselves.
-datePublished: '2016-03-14T23:24:04.563Z'
-dateModified: '2016-03-14T23:24:03.902Z'
-title: Other Projects
+description: >-
+  Marnix De Cat plays a program with own music and improvisations at the piano.
+  All the music coming from the deepest silence within ourselves.
+datePublished: '2016-08-24T08:56:27.335Z'
+dateModified: '2016-08-24T08:56:26.023Z'
+title: 'Marnix @ the organ/piano/keyboard :'
 author: []
 sourcePath: _posts/2016-01-29-other-creations-and-projects.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: other-creations-and-projects/index.html
 _type: WebPage
 
