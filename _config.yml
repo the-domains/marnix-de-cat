@@ -1,6 +1,6 @@
 name: Marnix De Cat
 favicon: null
-layout_spectrum: 0.75063
+layout_spectrum: 0.62106
 typography_spectrum: 0.2712
 navigation:
   - name: Pluto & Hathor
@@ -47,7 +47,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.25
+  brandStrength: 0.3125
   lightness: 0.5
   saturation: 0.24159828363917768
   rhythmicContrast: 0.75
