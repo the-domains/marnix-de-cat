@@ -37,6 +37,9 @@ navigation:
   - name: Impro ORGan & sAX
     id: f10743e4-c6b1-4e7f-94e4-7f45cde81707
     type: content
+  - name: Bach 4 / 2
+    id: 57a2b733-b3e4-4209-9730-253ec2de8ef4
+    type: content
 favicon: null
 title: Marnix De Cat
 purpose: []
