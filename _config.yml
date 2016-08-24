@@ -46,6 +46,9 @@ navigation:
   - name: Rosa
     id: ab965ed4-d855-4d28-a296-108b1ae87044
     type: content
+  - name: Composer
+    id: bc5bd4a3-d7f9-4d20-b40d-ee6e9cfa0bfa
+    type: content
 favicon: null
 title: Marnix De Cat
 purpose: []
