@@ -1,27 +1,23 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: >-
-  Marnix De Cat is a Belgian counter-tenor, conductor, organist and percussion
-  player. He sings and plays music from 14th to 21st centuries, specializing in
-  old & new Polyphony.
-datePublished: '2016-08-24T16:47:54.413Z'
-dateModified: '2016-08-24T16:47:43.271Z'
+datePublished: '2016-08-24T18:10:28.164Z'
 sourcePath: _posts/2016-01-25-marnix-de-cat.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author:
   - name: foto © Yves Gervais 2015
     url: ''
 via: {}
+dateModified: '2016-08-24T18:10:27.712Z'
 title: ''
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+description: >-
+  Marnix De Cat is a Belgian counter-tenor, conductor, organist and percussion
+  player. He sings and plays music from 14th to 21st centuries, specializing in
+  old & new Polyphony.
+inLanguage: null
+inNav: false
 starred: false
 url: bio/index.html
 _type: Article
@@ -39,7 +35,7 @@ Marnix is a permanent member of the **[Gesualdo Consort][1]** Amsterdam (alto, s
 
 From 1996 till 2013 he has been one of the four permanent core members of the **Capilla Flamenca**, participating in its worldwide tours, and with whom he made about 35 CD-recordings.
 
-In addition, he regularly collaborates with the **[Collegium Vocale Gent][2]**, Currende ensemble, Weser Renaissance, Huelgas Ensemble,.. He also has been raising his visibility as a soloist as well performing with conductors such as Gustav Leonhardt, Philippe Herreweghe, Jos van Immerseel, Manfred Cordes... 
+In addition, he regularly collaborates with the **[Collegium Vocale Gent][2]**, Currende ensemble, Weser Renaissance, Huelgas Ensemble,.. He also has been raising his visibility as a soloist as well performing with conductors such as Gustav Leonhardt, Philippe Herreweghe, Jos van Immerseel, Manfred Cordes...
 
 Several modern dance performances co-opted him as a singer for their tours, among others: Iets op Bach (A.Platel), Foi (S.L.Cherkaoui), and Bâche (K. Augustijnen).
 
