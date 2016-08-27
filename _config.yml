@@ -1,7 +1,29 @@
-name: Marnix De Cat
-favicon: null
-layout_spectrum: 0.55606
-typography_spectrum: 0.58365
+title: ''
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: singer - organist - director - composer - workshops
+color:
+  saturation: 0.25
+  brandStrength: 0.6297872
+  lightness: 0.5
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  rhythmicContrast: 0.75
 navigation:
   - name: Pluto & Hathor
     id: 932aaf48-6880-48b2-aec8-bb0d469cafad
@@ -30,29 +52,19 @@ navigation:
   - name: Pluto-ensemble
     url: 'http://www.pluto-ensemble.eu'
     type: external
-title: ''
-description: singer - organist - director - composer - workshops
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: UA-81189378-1
   facebook: null
-  twitter: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: Marnix De Cat
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5625
-  lightness: 0.5
-  saturation: 0.25
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.5297872
+layout_spectrum: 0.6382979
