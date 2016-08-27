@@ -24,6 +24,14 @@ color:
     - '#5C6B73'
     - '#253237'
   rhythmicContrast: 0.75
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-81189378-1
+  facebook: null
 navigation:
   - name: Pluto & Hathor
     id: 932aaf48-6880-48b2-aec8-bb0d469cafad
@@ -52,14 +60,6 @@ navigation:
   - name: Pluto-ensemble
     url: 'http://www.pluto-ensemble.eu'
     type: external
-analytics:
-  twitter: null
-  google: UA-81189378-1
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
 favicon: null
 name: Marnix De Cat
 opengraph:
@@ -67,4 +67,4 @@ opengraph:
   type: null
   appId: null
 typography_spectrum: 0.5297872
-layout_spectrum: 0.6382979
+layout_spectrum: 0.5404255
