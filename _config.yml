@@ -28,6 +28,9 @@ navigation:
   - name: Pluto & Hathor
     id: 932aaf48-6880-48b2-aec8-bb0d469cafad
     type: content
+  - name: Pluto-ensemble.eu
+    url: 'http://www.pluto-ensemble.eu'
+    type: external
   - name: GCA
     id: 97b996bf-a214-42fb-95cb-9b29ad7fd766
     type: content
@@ -37,9 +40,6 @@ navigation:
   - name: Bach 4 / 2
     id: 57a2b733-b3e4-4209-9730-253ec2de8ef4
     type: content
-  - name: Pluto-ensemble.eu
-    url: 'http://www.pluto-ensemble.eu'
-    type: external
   - name: Other Projects
     id: 00b677f0-318f-4c33-b8a1-c87c13b501d1
     type: content
