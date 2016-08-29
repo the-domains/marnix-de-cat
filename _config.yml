@@ -1,18 +1,4 @@
-title: ''
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-description: singer - organist - director - composer - workshops
+typography_spectrum: 0.5297872
 color:
   saturation: 0.25
   brandStrength: 0.6297872
@@ -24,14 +10,20 @@ color:
     - '#5C6B73'
     - '#253237'
   rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5404255
 analytics:
   twitter: null
   google: UA-81189378-1
   facebook: null
+name: Marnix De Cat
+cta:
+  bucket: null
+  version: null
+  domain: null
 navigation:
   - name: Pluto & Hathor
     id: 932aaf48-6880-48b2-aec8-bb0d469cafad
@@ -57,14 +49,22 @@ navigation:
   - name: Contact
     id: 7e95c9e1-b22a-407c-83f5-f527d2b1729d
     type: content
-  - name: Pluto-ensemble
+  - name: Pluto-ensemble.eu
     url: 'http://www.pluto-ensemble.eu'
     type: external
 favicon: null
-name: Marnix De Cat
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5297872
-layout_spectrum: 0.5404255
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: ''
+description: singer - organist - director - composer - workshops
+purpose: []
